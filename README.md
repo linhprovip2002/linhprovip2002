@@ -2,30 +2,7 @@
 <h3 align="center">I am a student of IT The University of Danang - University of Science and Technology</h3>
 
 
-<style>
-  .btn button:hover {
-    background-color: var(--green-l);
-    transition: var(--smooth);
-  }
 
-  :root {
-    --green: #54B192;
-    --green-l: #a4cec0;
-    --gray: #3f3d56;
-    --smooth: all .3s ease-in;
-  }
-
-  button {
-    text-align: center;
-    color: #fff;
-    background-color: gray;
-    padding: .8rem 2.5rem;
-    border: none;
-    border-radius: 100px;
-    cursor: pointer;
-    transition: var(--smooth);
-  }
-</style>
 <p align="right"><img src="https://i.imgur.com/v9SUnZh.webp" alt="Profile"></p>
 <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=linhprovip2002&label=Profile%20views&color=0e75b6&style=flat"
@@ -111,3 +88,27 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linhprovip2002&"
     alt="linhprovip2002" /></p>
+<style>
+  .btn button:hover {
+    background-color: var(--green-l);
+    transition: var(--smooth);
+  }
+
+  :root {
+    --green: #54B192;
+    --green-l: #a4cec0;
+    --gray: #3f3d56;
+    --smooth: all .3s ease-in;
+  }
+
+  button {
+    text-align: center;
+    color: #fff;
+    background-color: gray;
+    padding: .8rem 2.5rem;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: var(--smooth);
+  }
+</style>
