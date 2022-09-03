@@ -1,6 +1,31 @@
 <h1 align="center">Hi 👋, I'm Nhật Linh</h1>
 <h3 align="center">I am a student of IT The University of Danang - University of Science and Technology</h3>
 
+
+<style>
+  .btn button:hover {
+    background-color: var(--green-l);
+    transition: var(--smooth);
+  }
+
+  :root {
+    --green: #54B192;
+    --green-l: #a4cec0;
+    --gray: #3f3d56;
+    --smooth: all .3s ease-in;
+  }
+
+  button {
+    text-align: center;
+    color: #fff;
+    background-color: gray;
+    padding: .8rem 2.5rem;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: var(--smooth);
+  }
+</style>
 <p align="right"><img src="https://i.imgur.com/v9SUnZh.webp" alt="Profile"></p>
 <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=linhprovip2002&label=Profile%20views&color=0e75b6&style=flat"
@@ -10,9 +35,8 @@
 
 - 🤝 I’m looking for help with **Back-end**
 
-- 👨‍💻 All of my projects are available at <a
-  style="display:inline-block; background-color:rgb(20, 221, 70) ; color:black; "
-  href="https://linhprovip2002.github.io/CV-template/index1.html#blog-page">PORTFOLIOS</a>
+- 👨‍💻 All of my projects are available at <a style="text-decoration: none; "
+  href="https://linhprovip2002.github.io/CV-template/index1.html#home-page"><button class="btn">Portfolios</button></a>
 
 - 💬 Ask me about **Can ask all but except what I don't know**
 
