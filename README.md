@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nhật Linh</h1>
+<h1 align="center">Hi 👋, I'm NHAT LINH</h1>
 <h3 align="center">I am a student of IT The University of Danang - University of Science and Technology</h3>
 
 
