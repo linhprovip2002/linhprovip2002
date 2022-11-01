@@ -13,7 +13,7 @@
 - 🤝 I’m looking for help with **Back-end**
 
 - 👨‍💻 All of my projects are available at <a style="text-decoration: none;"
-  href="https://linhprovip2002.github.io/CV-template/index1.html#home-page"><button class="btn"
+  href="https://linhprovip2002.github.io/CV-template/index1.html"><button class="btn"
     style="text-align: center;color: #fff;background-color: gray;padding: .8rem 2.5rem;border: none;border-radius: 100px;cursor: pointer;transition: var(--smooth);">Portfolios</button></a>
 
 - 💬 Ask me about **Can ask all but except what I don't know**
