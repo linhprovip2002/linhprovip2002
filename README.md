@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [operating system project](https://github.com/duyquang2301/PBL4.git)
 
-- 👨‍💻 All of my projects are available at [https://linhprovip2002.github.io/CV-template/index1.html](https://linhprovip2002.github.io/CV-template/index1.html)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **anything that i know**
 
