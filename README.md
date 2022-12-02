@@ -1,8 +1,8 @@
 ### <p align="center">Hi there, I'm Nhat Linh ✔️</p>
 
-> <p align="left"> <img
+> [<p align="left"> <img
     src="https://komarev.com/ghpvc/?username=linhprovip2002&label=Profile%20views&color=0e75b6&style=flat"
-    alt="linhprovip2002" /> </p>
+    alt="linhprovip2002" /> </p>](https://komarev.com/ghpvc/?username=linhprovip2002&label=Profile%20views&color=0e75b6&style=flat)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
