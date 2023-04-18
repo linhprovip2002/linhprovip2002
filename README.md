@@ -1,5 +1,4 @@
-### <p align="center">Hi t
-    , I'm Nhat Linh ✔️</p>
+### <p align="center">Hi there, I'm Nhat Linh ✔️</p>
 
 > [<p align="left"> <img
     src="https://komarev.com/ghpvc/?username=linhprovip2002&label=Profile%20views&color=0e75b6&style=flat"
