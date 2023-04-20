@@ -33,8 +33,15 @@
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<span>[<img src="https://github-readme-stats.vercel.app/api?username=linhprovip2002&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=linhprovip2002)</span>
-<span>[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linhprovip2002&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=linhprovip2002)</span>
+<div style="display:flex;">
+  <span style="margin-right:20px;height:auto">
+    <img src="https://github-readme-stats.vercel.app/api?username=linhprovip2002&show_icons=true&theme=radical" height="250">
+  </span>
+  <span height:auto>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linhprovip2002&show_icons=true&theme=radical" height="250">
+  </span>
+</div>
+
 
 ### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
